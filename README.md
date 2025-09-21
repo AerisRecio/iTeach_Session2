@@ -1,0 +1,1 @@
+On the second session of iTeach, I found that the combination of arrays and loops were hard to understand at first. But when I got the hang of it, it was actually so useful! During my midterm examination, I really couldn't find a way to follow the sample project if I were to only use if statements!! So I used arrays and it was SO much easier!
