@@ -1,2 +1,2 @@
 On the second session of iTeach, I found that the combination of arrays and loops were hard to understand at first. But when I got the hang of it, it was actually so useful! During my midterm examination, I really couldn't find a way to follow the sample project if I were to only use if statements!! So I used arrays and it was SO much easier!
-Note: This repo is just a learning tool for me! Might contain errors and funny comments c:
+\nNote: This repo is just a learning tool for me! Might contain errors and funny comments c:
